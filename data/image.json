@@ -1,0 +1,249 @@
+[
+  {
+    "ID": 1,
+    "department": "บัญชี",
+    "image": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/525462873_1184250670411742_2866106668654207854_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE3-BJNfk3q-m5hpKgh82fIZfpV0WZe5Ctl-lXRZl7kK4OP6RjMgah1F1ymlS6ytYKUjJB9lu8A1WoMltS3pJor&_nc_ohc=hTzsjfTi7QUQ7kNvwGqbPPU&_nc_oc=AdkQbO84EBoo0waiOLRG-41IBpV7X7kn0PsSZK2Rd0ZA-LuMSgTP3Dxdpd9Me9-a-Wz9FGerQYhAzYil_-xyO-Dl&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=HvM3c0przHShsG5_9ULkDw&oh=00_AfVyD_mKEUhM_c1vhGtYAXa3gGqKh87Oxg_tkXtLstN9jg&oe=689806B4",
+    "description": "เรียนเกี่ยวกับการบันทึก ตรวจสอบ และวิเคราะห์ข้อมูลทางการเงินขององค์กร รวมถึงการจัดทำงบการเงินและการวางแผนภาษี",
+    "career_paths": [
+      "นักบัญชี",
+      "ผู้ตรวจสอบบัญชี",
+      "ที่ปรึกษาทางการเงิน",
+      "เจ้าหน้าที่การเงิน",
+      "นักวิเคราะห์งบการเงิน"
+    ],
+    "WhatYouWillLearn": [
+      "หลักการบัญชีและการบันทึกข้อมูลทางการเงิน",
+      "การจัดทำงบการเงินและการวิเคราะห์งบ",
+      "ระบบบัญชีและการควบคุมภายใน",
+      "ภาษีอากรและกฎหมายที่เกี่ยวข้อง",
+      "การตรวจสอบบัญชี (Audit)",
+      "การใช้โปรแกรมบัญชีและระบบสารสนเทศทางการบัญชี"
+    ],
+    "TrendsAndDeands": [
+      "นักบัญชีเป็นอาชีพที่ทุกองค์กรต้องมี ไม่ว่าจะเป็นธุรกิจขนาดเล็กหรือบริษัทข้ามชาติ",
+      "ความต้องการสูงทั้งในภาครัฐและเอกชน รวมถึงงานในต่างประเทศ",
+      "สามารถต่อยอดเป็นผู้สอบบัญชีรับอนุญาต (CPA) เพื่อเพิ่มโอกาสและรายได้"
+    ],
+    "skills": [
+      "ความละเอียดรอบคอบ",
+      "การคิดวิเคราะห์เชิงตัวเลข",
+      "ความรู้ด้านภาษีและกฎหมาย",
+      "ทักษะการใช้โปรแกรมบัญชี",
+      "การสื่อสารเชิงธุรกิจ"
+    ],
+    "image_department": [
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/523127374_1319441510188928_1253040356554578453_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFO2p3RQzifQQwvVw6gt8_9IXbJzWy8b_ohdsnNbLxv-tkRMILcvhRG-I7w_gORc7biaE__jidVc__8BIBDOmdb&_nc_ohc=_3PYI_ZbZEEQ7kNvwEXhEoK&_nc_oc=AdkNZqRS9k-qIAL5ynktHjEjNdcUd2H-NbyiaZ-Oy4lE8eT0Zv4qCdFpOV4b7shYPfdmihnwMsMClAiQo5vicSVu&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=cjqiKIGuoIK3MIZNSoKRFQ&oh=00_AfXJX9-xOqVkZYLfatVMNHocpundKN3-uw-j248iQfZpdg&oe=689F5614",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/518198863_1306411514825261_288101217670137525_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFcJLrykPT2wLeW5oX4-_o63WGlZiP1W13dYaVmI_VbXVDnVVzd1R4kCzhHBbcNudsBprdERg-DYcQhMPDFQ4Qa&_nc_ohc=4cSL3aMhL3AQ7kNvwH64S4U&_nc_oc=AdkvG8j33OqdvjslrJbJHDmYTHS-kSIN_Wa55eJH9AF-kAK-fQfqhy5t4QTYLbpdfYOPyhK1yFBCFOzCB0ZBn0s0&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=h00oZ5tTfMqJ5tIMuDcASg&oh=00_AfUxH16680mGRMA5D7_eLEUoDiSnteI-64_QCkJ-z0uTCQ&oe=689F5C39",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/515437750_1301275385338874_7390741985626768938_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE6hO8NSIjysy1IRn4Zz-DAprgvf2N8nEKmuC9_Y3ycQojWVsNFCGCMNcUrfbGUWmHuGBEAwthZI7ub9le_8CCE&_nc_ohc=jFD3s_5C2lIQ7kNvwFbH28I&_nc_oc=AdnVOTq8T8m4itIQNIra4jVzQmMu1jmqTaqqLUz4xPD-FST5nvLP0lA-N6tDU_3dpEWCVqvFLKMUl2NRtcLIlflx&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=RuhLlGbfgiEhZn0x5aFFrQ&oh=00_AfU48yr7qAe9uLsHuzycSES9iokTgqvlwmOkvO0hZMWimA&oe=689F4E12",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/513540263_1294283922704687_4183297382337314458_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFCwl_dqRx-ylLyzh-hXZ7xOXVkyxsjgX45dWTLGyOBfkAM02FWJPkrYfJCvB8SDbUylP2bzJk5jo6kIHere0P7&_nc_ohc=4O7orEARtegQ7kNvwEYpQtt&_nc_oc=AdnhgISwBSbYqBuzKSd3m99Iy0mxZMO67lW4iDPyNyx3QUEnXWhQzLOn3ggteCuF4tKEkJYYf64notcUXQ3PGRrH&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=lEIIjqEa_8fdEe1SApVJAg&oh=00_AfW31w8MABkSmhVUhkT62gzV1Sz89acCnDe5O-wTiJYFPg&oe=689F2EB6",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/509347429_1288581793274900_5903768733688503429_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHP00AdbhYiXxobG3ZZtkPOoMApqq5RlUOgwCmqrlGVQwPX6gi8SJ2h69xP3O7KhtmKa2YnbdKUa91IvuZJQr4m&_nc_ohc=VwKXO5o6RewQ7kNvwHX88nB&_nc_oc=AdlufxPSF5l3pdgyj3b4y0RzpWGDo6NE0gsDnnLNqLcKEhjiuglZzGg7CtKQ20omfgXdutDJ43Lr941pJvKJ3hZ3&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=WLAzmxUMFvZYozj28DMXjQ&oh=00_AfVQ4RSwl-RrW8pEHwDasxktXW009yWZr4qxvg3T8n3tZg&oe=689F3EE5",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/501202814_1272679771531769_5013004956350999756_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEnzQXTMGyE9eg8eDVGP4JmZHq7te6d0p9keru17p3Sn0RGFFYY9YiE3KwLCl3HLpvwgZN6LkYg-b8JGqTsbmU5&_nc_ohc=mUKBfP0v5nEQ7kNvwHrTSJl&_nc_oc=Adlw4s4EE8cNyXHB4vQ7SYhFpp1AdcSAqNEyxbZ-Jm-uFXKPmu48CIckyBQHoJ1nNWfvVNOlTConLCjtWudefo2O&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=PJbT8wsyH9XkHgAwVA8AzA&oh=00_AfX9QJptktNvkGAKO_v5yvFqNLTOkYn01nMxi2hhNn8QDw&oe=689F4A49"
+    ],
+    "facebook": "https://www.facebook.com/accounting.btad"
+  },
+  {
+    "ID": 2,
+    "department": "โลจีสติกส์",
+    "image": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/518056151_1174277044742438_7378386472235998778_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHHOySoOKpjulluZhUGVRqUPL7ejP3_BiA8vt6M_f8GIJ-TykfAiHeZf0A03juQIlmPW8hgvsrXh8cFaNrOKUp5&_nc_ohc=tROliR3Ys-8Q7kNvwEZP_5C&_nc_oc=AdnEY-PYDjNPp8UWeJVjzmqSbdhsasGwWCzJwip3uCMu-V6W22DCzin3x0870nqSjjt8XJnl4prmarOlZkVKe7nW&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=3zLgvWgeX3qxHxL3DSLJAg&oh=00_AfUnwpJk8dcxISOjbdJs0REsA2RC15e0dxbJqzbZS9B2yw&oe=6897F592",
+    "description": "ศึกษาเกี่ยวกับการวางแผน ควบคุม และบริหารการขนส่งสินค้า คลังสินค้า และกระบวนการซัพพลายเชน เพื่อให้สินค้าถึงผู้บริโภคอย่างมีประสิทธิภาพ",
+    "career_paths": [
+      "เจ้าหน้าที่โลจีสติกส์",
+      "ผู้จัดการซัพพลายเชน",
+      "ผู้ประสานงานขนส่ง",
+      "ผู้วางแผนการจัดส่ง",
+      "เจ้าหน้าที่คลังสินค้า"
+    ],
+    "WhatYouWillLearn": [
+      "การจัดการซัพพลายเชน",
+      "การวางแผนและควบคุมการขนส่ง",
+      "การบริหารคลังสินค้า",
+      "ระบบติดตามสินค้าและเทคโนโลยีโลจีสติกส์",
+      "การนำเข้า-ส่งออกและพิธีการศุลกากร"
+    ],
+    "TrendsAndDeands": [
+      "ธุรกิจอีคอมเมิร์ซและการขนส่งเติบโตต่อเนื่อง",
+      "มีความต้องการสูงทั้งในและต่างประเทศ",
+      "การใช้เทคโนโลยี AI และ IoT ในระบบโลจีสติกส์เพิ่มขึ้น"
+    ],
+    "skills": [
+      "การจัดการเวลา",
+      "การประสานงาน",
+      "ความรู้ด้านการขนส่ง",
+      "การใช้ซอฟต์แวร์โลจีสติกส์",
+      "การวิเคราะห์ข้อมูล"
+    ],
+    "image_department": [
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/529452273_1234451618479639_5879876512912656552_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeFbi82CaffEBuuN1C4qMzpYI38aCvrD560jfxoK-sPnrQFkQKRox74zVI1iszYzDSMuZcKGLJgrcqSF5hT4Htig&_nc_ohc=0Jmrx5FIFL4Q7kNvwHqrU6o&_nc_oc=AdkuZHQljay3j8twAGI9c8tCc85c04W0EjsZQqMhdoguqrvyUT6FqDLATA-GWsd9BKOgXhYP4O6vPEDOVQPkz3DY&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=js_jxKKkaY5YpNJqshaoew&oh=00_AfW_isUo_GLIYrxZkU-v0vMfPytqF0v3hBg-jYvdy9Eesg&oe=689FE030",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/527427145_1230383768886424_1030410769249603191_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHqmH-uTRKesvObxyrfPSCsu6B478WFIVK7oHjvxYUhUiz5b27oc9bB8ydXfCSR7hrd3slKHP7uwfHTPpOXqWZu&_nc_ohc=_fC6EHO7lo4Q7kNvwHG9d0l&_nc_oc=Adl6eRRwAbpDkRW2eisygV1PPYud2kT4_SPiNn839x84sSgauIgz4TJdjXHoQHjDwUjF2QNhhBjZwf1oj16tfFtF&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=Wt2RxpRHiQSPdPFp1-bYxA&oh=00_AfXpJYHlid09RlFGnBDbJiVNUXV1Q8Y6uFKaxwMrOB0v3A&oe=689FE999",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/518061414_1216744343583700_8421692167344472027_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFaWJn0d_Xyfbm8poGi8gLEyjkvNuuxOcTKOS8267E5xNrHhJw9rTt8XeXEJK-uR5EovNZ8xsAnH0myxtpWkHvf&_nc_ohc=dn09A3iA7yUQ7kNvwFdT6SK&_nc_oc=Adlu3vFWKH5aSbgfYRy_vNS2Koro8EbPRoEu2btN-6UFnEBmpSBfQUTC0qUP_ICLgtnH_Fqb0-SsRy9ymWZ7tkPJ&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=RAfKU8UwZwAQeqV7T05MDA&oh=00_AfWHisEix117mvdQD0YSOskJLK7Gdhv67_7l_Fy_5b9jnQ&oe=689FD85C",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/517603760_1214792883778846_7717399003632378378_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEI8Oj4vjIDZMPW_uMUBhroJjlWscUZfysmOVaxxRl_K--pMa3s4nulfGxgklX0VMdxa1j0BeZINFpWawnwAFYk&_nc_ohc=7XSmIbk8F3kQ7kNvwGjn6Is&_nc_oc=AdnKQCjeLC4p9UMGG_zHHVPSuNiyGAaqokvY5N8C47gpGL9oGX45mS35ILDMD8-Zgui9I9KVvbxYCbABQHK1vx7r&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=W0p7qJxdZMmh4293l2VuvQ&oh=00_AfV4uAiCx0Oz--SAOEjYYBeezcWg0oInAbKOSH5RQIwkIg&oe=689FE81F",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/515860396_1209687437622724_703215520418320154_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeF1TvgronCDOs8ZKOTtoGNd_x-LHvPWRSv_H4se89ZFKzRdxd2nyyPjfsgEQphTOkYf7vbNxaIed0bFKc8-4Jei&_nc_ohc=nANDvPJvjAcQ7kNvwH5SicM&_nc_oc=AdmNvz0Ok9L3KYWDzBQweMB7JupYz5aG2D2jaP9hXqyXqWbvtq4JdcRAvfOxGOhaX9lbcVB64CBjku8B8-exGhM-&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=Rxobum6fkmoHjOoQ9MzabQ&oh=00_AfXSu_TbRBEeaSSVKsOCxmf0m4RcFItsqQOK56BHP3xfcA&oe=689FF505",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/514406282_1205705158020952_8311363887444358643_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFFMdaZjVbUGHgCfinoa279AEMCpNeeL1oAQwKk154vWhHwpkmjEpjo-V6IUY7XEckyCTDS0a8baHIocXVHA-st&_nc_ohc=P1Rv1DDDhV4Q7kNvwELdIO1&_nc_oc=AdlmY6-URhhFoHyPqkR64tGHRqlQDg-rYm_TNPPQf6Dm4f49MUjZDWZhYWEG5jdgFa_zS8g_TVYhBjzSqn0_gj3d&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=BAWQRKBXRabxsuWK2iPd0w&oh=00_AfW3DxMv5w5pl4KQLoUPmFb71rSMjzIfekzaxp2DhDBpEw&oe=689FF3D3"
+    ],
+    "facebook": "https://www.facebook.com/profile.php?id=100057444369315"
+  },
+  {
+    "ID": 3,
+    "department": "ท่องเที่ยว",
+    "image": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/518563693_1173489098154566_4407507900110585661_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE6GHbyOQzP6NfJMpp_N_SwLy1JwIJT0gIvLUnAglPSAsbhGDVMmpxIQHjGwrlRI8JCeIx6C5eORRWW2kshH0KN&_nc_ohc=ioqB2D4eHIYQ7kNvwGphg_S&_nc_oc=AdnYjHvAsWc_ci7bdD9tb9R-_0Kcki9UncbE2Da4iosvGR9XN0VotXOSUXBRvm0246lGwGOjbJ01e921VMfWGf3J&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=aGmphymeeuZY5dt5y0dSyg&oh=00_AfVcC6o7nFU0yvMREw_J1nYegRlBL7ycJHMfwn0xgzSVAw&oe=68980CDC",
+    "description": "เรียนรู้เกี่ยวกับการจัดการการท่องเที่ยว การบริการลูกค้า และการพัฒนาแหล่งท่องเที่ยวเพื่อดึงดูดนักท่องเที่ยว",
+    "career_paths": [
+      "มัคคุเทศก์",
+      "ผู้จัดการทัวร์",
+      "เจ้าหน้าที่ประชาสัมพันธ์การท่องเที่ยว",
+      "ผู้วางแผนการเดินทาง",
+      "ผู้พัฒนาแหล่งท่องเที่ยว"
+    ],
+    "WhatYouWillLearn": [
+      "การวางแผนและจัดการทัวร์",
+      "ทักษะการบริการลูกค้า",
+      "การประชาสัมพันธ์และการตลาดการท่องเที่ยว",
+      "ความรู้ด้านภูมิศาสตร์และวัฒนธรรม",
+      "การพัฒนาแหล่งท่องเที่ยวอย่างยั่งยืน"
+    ],
+    "TrendsAndDeands": [
+      "การท่องเที่ยวในประเทศและต่างประเทศฟื้นตัวอย่างรวดเร็ว",
+      "ตลาดท่องเที่ยวเชิงประสบการณ์เติบโต",
+      "ความต้องการบุคลากรที่มีทักษะภาษาต่างประเทศสูง"
+    ],
+    "skills": [
+      "การสื่อสาร",
+      "ทักษะภาษา",
+      "การบริการลูกค้า",
+      "การวางแผนและจัดการ",
+      "การแก้ปัญหาเฉพาะหน้า"
+    ],
+    "image_department": [
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/529216229_1339913251475107_6965159712617526548_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGN6Db5k6OKgX0qXVm2DzR8zUzFRxQrSUnNTMVHFCtJSQtbRqINqJkgxDAUJs5OC39wqtzvZp7Qpyscdkf3wLA_&_nc_ohc=YMwF0rVv1VIQ7kNvwFrJdgv&_nc_oc=AdlHEbyFwIDM8ioMxuLxMqiFbd1715t8WIs8G8mqFqIewm9LHriLR77IpdJLQDwqYJcV6s9pOpzUqn9VXnfS0XlL&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=fJbosVeo4u4BsaUbgose9A&oh=00_AfV4kx_cR2ecrPlFv_oAERzND9uXE_sMn7xuAYbp0FBMQQ&oe=689F3F48",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/526985596_1336267795172986_3615649907246916710_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG94OoED56PVv8g4gVM7f_4rBrhd7oW4umsGuF3uhbi6VkllRySNIulAJSW0fi76ijtAcM28OZ4DPk1Wx0y5sjC&_nc_ohc=e-A7zIIOxEUQ7kNvwGLop0r&_nc_oc=AdkHZ66At6AhnxzjtXUDOtsa4rmoIkCiypG9xhrKdEnZ9O7jMDfajQCiMnMbS3f5mIHlJCvc9lm84XqQELU_x77e&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=lHEKbKl12r6104DEpBRXng&oh=00_AfUTnszFPX4n1AbbwoHKIKrOYAOAs-1ps-9ALLlVGRwzgA&oe=689F4120",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/525160045_1331509535648812_7673502443014742660_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFOcOZC2OQiKikdT3u9T7nfrJD5YQfmJhSskPlhB-YmFKbxcccDuZaMmXUAtR0JkX2_upeK5f6-2qvhA9tPgvEK&_nc_ohc=t7M1Ha-kJ5AQ7kNvwE5tDJ0&_nc_oc=Adkv_YlShAahPbzSLQtyVNPQjexVJpNIvBPlRjCnwhWLy62WdyMxhgZIwoZg63eNiUNbT44MOMlCWaI3jxGgF4hJ&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=VDjmcUCNV1UuRI_zj73dYw&oh=00_AfVlXVuaFXhFcydg_jdw6_KwVxEkomWrrHkYLC1gfqe4Tw&oe=689F2DDB",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/524581592_1326902469442852_5636117738728054747_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEJ9bqWYGBnTVF0bmqql-2ALPw2-VW8BdAs_Db5VbwF0EvekY1l7SQ_359fD1sTvJMPybDsr3fXgoH8ljRgjLVW&_nc_ohc=epZCdtXDLMsQ7kNvwFzQ0Kb&_nc_oc=Adn2FKOQHNfwxRxWa5x_2k1TZtmiyVT85SOeZ8xGEWkzc8mTP7PU9jdBH8VTr2UmOr5xEJzqzF8PuYkQQW2XWD0u&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=8NB-CgG0aRqDTWDhBkEYSA&oh=00_AfVBTg1GuOTppqeueE7uFAes-_0HME_ECEvlfN_6v25xUg&oe=689F3949",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/520324839_1324020526397713_3613791239596376495_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeENAgQc0HkUsc6DG9JqDnuHMKxIfJDasgwwrEh8kNqyDNcm1kIstIXwRo59XW-2k3rtWnOXiRkHSP6S5uF17pPV&_nc_ohc=J_N9V-zZv3EQ7kNvwEG1HdT&_nc_oc=AdnBo_osoDP7O6shH9aP9IkuYgvLdiOxLJeAL_ndVj1zmACnMO06y1tBwn6PyAWhaDutx-y3zXe_okTTDPcpa2rF&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=PIDjKIIQb1petnPiDsaPbg&oh=00_AfV9bk9R7WtBGSyQ-IVWYzItnTvwdAS0Bc04Af5i646n5Q&oe=689F4DC9",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/518274565_1314979047301861_5081193509307608454_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFdcOFN5s9JqeldWk252EeqKdWj7o9ojNcp1aPuj2iM19QZ_uI20mvqdVC77odRK9b3Kv4WwdSt_TVc4kg1czZO&_nc_ohc=p0SyrwMIlXkQ7kNvwHvO74z&_nc_oc=AdkTmG6GJuW3j--Fv9NBLes-MCRPzZ4Eeo1qtbnC_aVpY6KbRT0bQin9-zoW9Te-ok2f5qp5pK-VXvTgNlkE6b8I&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=xw6bNE4hvXH2-CTFOnCxLQ&oh=00_AfWhshQ13tzNagAbdfnwVTOjj3tubrRNZ__NMO6UfvKWMA&oe=689F3D7E"
+    ],
+    "facebook": "https://www.facebook.com/thaitechengtestbtads"
+  },
+  {
+    "ID": 4,
+    "department": "การตลาด",
+    "image": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/519831919_1171972158306260_520120279359389969_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE2HT5f5HX67YzYPVyqNusRoh4TlYB6DX6iHhOVgHoNfuZVftYk-WfS4TASaaW3m_zvEVK6gpdTNrN4aCNjXmcW&_nc_ohc=vYPd4RlZNL0Q7kNvwF7ThiQ&_nc_oc=AdmHlBxndMdotDbxz9tvq0jLSSQo24psYNVTTKjeEADceomheX3fMCNxRfrMkyUENUDESiL2NufXJhP6GQconJ_5&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=8lEuFqPD-6sI-Lx4BsJSZA&oh=00_AfUd8BTpke19BJpewCLHExSdqbrqbETYVSeRN2clWA_3Jg&oe=6897F9C0",
+    "description": "เรียนรู้เกี่ยวกับการวางแผนและดำเนินกลยุทธ์ทางการตลาด การวิเคราะห์พฤติกรรมผู้บริโภค และการสร้างแบรนด์เพื่อเพิ่มยอดขาย",
+    "career_paths": [
+      "นักการตลาด",
+      "ผู้จัดการผลิตภัณฑ์",
+      "นักวิเคราะห์ตลาด",
+      "ผู้ดูแลสื่อสังคมออนไลน์",
+      "ที่ปรึกษาด้านการตลาด"
+    ],
+    "WhatYouWillLearn": [
+      "การวางแผนและกลยุทธ์การตลาด",
+      "การวิเคราะห์ข้อมูลและพฤติกรรมผู้บริโภค",
+      "การสร้างและจัดการแบรนด์",
+      "การสื่อสารการตลาดและประชาสัมพันธ์",
+      "การใช้สื่อดิจิทัลและโซเชียลมีเดีย"
+    ],
+    "TrendsAndDeands": [
+      "ตลาดออนไลน์และโซเชียลมีเดียเติบโตอย่างรวดเร็ว",
+      "ความต้องการผู้เชี่ยวชาญด้านดิจิทัลมาร์เก็ตติ้งเพิ่มขึ้น",
+      "การตลาดแบบข้อมูลขนาดใหญ่ (Big Data Marketing) เป็นที่นิยม"
+    ],
+    "skills": [
+      "การคิดเชิงวิเคราะห์",
+      "การสื่อสารที่มีประสิทธิภาพ",
+      "ความคิดสร้างสรรค์",
+      "การใช้เครื่องมือการตลาดดิจิทัล",
+      "ความเข้าใจพฤติกรรมผู้บริโภค"
+    ],
+    "image_department": [
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/528673675_1324222676162255_8074935605023972719_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG9gdtK8Jmf1jFEjv5CktWULCDjuwL2U3MsIOO7AvZTc5ZtiqYw4QiksEJFNJ1RdUdwDb8Vsw5cyW0351fnue3M&_nc_ohc=McdYDqsktmQQ7kNvwFYfspO&_nc_oc=Adm4f-QqLZPFrnjbLAJMvGmTl-n8QJNCFmVtqc_4StWgBb16YwddkCMSvVIaoG2xj2HNSYocPEKQoBo-HXiWaF40&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=Gbr-tRPviLN5LvZjkGkxhw&oh=00_AfW3PtBFodttjE_Lr609n_T8SJK88sZe3ELRVWmmPNkpRw&oe=689FF609",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/519115746_1312478087336714_5456377106927138899_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFS15WfL7qtnwjAO5shTm8IlSaxSuk-A-2VJrFK6T4D7SIt79y-sy0Yn43srr1Xza4BHqbk8WYCnuHSScLrKhNt&_nc_ohc=vEPEgoVINFIQ7kNvwGUoRan&_nc_oc=AdkYqTxfn7z5D8wf8K-6ldcxKtuVdEFpTTfnYe-394UqTaUUkc3WFzOwmFa4ZyyU65Fy2TWuRrlgoBrSUxqhTHCs&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=4WKpBF7igN1kvH_ZlSNTRA&oh=00_AfU8cW0FFR0T-mveGriqRsb4GmXqb-BBtyyoLPsdzLLkWw&oe=689FD9F0",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/522629162_1308183797766143_5542641405500289299_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFBml3fLzDeAiIxhLW6Q5wgEiDyOhel6wgSIPI6F6XrCI7RzhxcumOe2lFHOGtUS6zhy7_-iTsmmuAEPhdZH-SN&_nc_ohc=0Cp6KCfqKt4Q7kNvwGX51xB&_nc_oc=Adn79GAu4Aic-lT-DfSzWF0GpNuM5q0_cImXJPR6seiXdCbh4CGkze96kjp9u4JYc1tFTuHYqzaEMn337MedjJ9Z&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=z3UMtoFcXqYjOoP8JiK6fw&oh=00_AfUm4LcPz_zfe1HYKCs-mCtVHKONQ7KvEMuAJbdB3Xpmng&oe=689FCD41",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/518378186_1306592564591933_2166246982731743523_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFGEftN_LHz9jVr_yOq-rEMbroTB-qLDVFuuhMH6osNUXCGtrJjs-Yo_AuUB1XIFQ2coKuS159L-q5832XavHxR&_nc_ohc=9TaPlxpCsS8Q7kNvwFiNlIs&_nc_oc=AdmpxygcqaCAzFaEgUacWpBiVPhGRtVN-PBl8T2-jjRAtD2CYAxtcgEStwOYPjhbRB--j2noSgjkp_D5oC7wBpuB&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=wVFG0bWpLv7Te2X-73_7eQ&oh=00_AfWHf47mSpadGtkHpPbuLwRe3srswDAB4mOYWZkAkknUaA&oe=689FCCCF",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/518322981_1303168118267711_5326167851580910377_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHYSw9Vtx5t9NFawnVIQkLgyWVv6PgflarJZW_o-B-Vqjv-GygxVQg7Y_QJ_Nvdup7lIoMo7EsZsdJ-MMXyct8o&_nc_ohc=NlXkXPZe-6oQ7kNvwFpYoEG&_nc_oc=AdmG1QkVz86Ss6pGWv92gkQ5SswpIYOwP-LQ62Z3kMY5lSbJvJfCp2q2GTRBvgDJnBBe8MsiBGQwQhlEaCf8zoiX&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=4INLHv9eW_-1fPKyTq8tsg&oh=00_AfV1p6h-xBWSIIt0WgDsvZpJAfFcOzG2VSkLisbBmWpasQ&oe=689FCEA1",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/516737027_1297654952152361_3222925203765684631_n.jpg?stp=cp6_dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFjzU6mxUL3eg504lhXvH87AzFJ-iU9eFQDMUn6JT14VMqYm4p3ZTH33qOiNAhnQyZGJcGCw_p3kPZInssowb2A&_nc_ohc=cBB3f9E6NcsQ7kNvwGqbBar&_nc_oc=AdntyneAUdtj82eIp7UaFA5HYQI7lfLeCgv_iTSeRxi25loq_Lb1c9ohLAzxu0gK-AeF6mqvsTgMhixoxnFwrp2F&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=BXl34R5Irqv2KcxjcCFAxQ&oh=00_AfUm3zpPuSbdKrvDuhUPuNK4185ouLZciS71VXpkYNzGgQ&oe=689FFCA4"
+    ],
+    "facebook": "https://www.facebook.com/profile.php?id=100057236063724"
+  },
+  {
+    "ID": 5,
+    "department": "การโรงแรม",
+    "image": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/522915699_1180802450756564_4414015636216724383_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEhcd50NGDMW8-_QTn1hAnxXKUZbQTTLFZcpRltBNMsVk58MlWL--2MyHJpm5zLbT73skxmmvixsD68t5d_f3-e&_nc_ohc=2_pFxaFZnT0Q7kNvwHQrRwl&_nc_oc=Adm9xyXu6wZRU8kuzwBVcw10OSdxvYrSFFkUVguX--SkuL_XmoDsk8kKntbx1w-sKlcgdLUf0eZw2BRAMzapc3Es&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=schN2ZN_Tbckuq1y74yYBw&oh=00_AfWtZ6sWPCCMB7G4DXfy0lWAAWc_kKliild_cyZgQ1riLw&oe=68980B0A",
+    "description": "ศึกษาการบริหารจัดการโรงแรม การบริการลูกค้า และการดูแลความพึงพอใจของผู้เข้าพักในโรงแรมและรีสอร์ท",
+    "career_paths": [
+      "ผู้จัดการโรงแรม",
+      "เจ้าหน้าที่ต้อนรับ",
+      "ผู้ดูแลฝ่ายอาหารและเครื่องดื่ม",
+      "ผู้ประสานงานกิจกรรม",
+      "ผู้จัดการฝ่ายแม่บ้าน"
+    ],
+    "WhatYouWillLearn": [
+      "การบริหารจัดการโรงแรมและรีสอร์ท",
+      "ทักษะการบริการลูกค้า",
+      "การบริหารงานฝ่ายอาหารและเครื่องดื่ม",
+      "การจัดการกิจกรรมและอีเวนต์",
+      "การดูแลความปลอดภัยและสุขอนามัย"
+    ],
+    "TrendsAndDeands": [
+      "การท่องเที่ยวเติบโตอย่างต่อเนื่องหลังสถานการณ์โควิด",
+      "ความต้องการบุคลากรที่มีทักษะการบริการและภาษาต่างประเทศสูง",
+      "มีโอกาสทำงานในโรงแรมระดับหรูและรีสอร์ทชั้นนำทั้งในและต่างประเทศ"
+    ],
+    "skills": [
+      "ทักษะการบริการลูกค้า",
+      "การบริหารเวลา",
+      "การจัดการบุคลากร",
+      "ความสามารถในการแก้ไขปัญหา",
+      "ทักษะการสื่อสารและภาษา"
+    ],
+    "image_department": [
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/530544215_1053954276721487_6521705709972450492_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeErqum7BI70uRv-lSWIV2d3jr-dqNqmaNKOv52o2qZo0qX3zePuxjINCkbWnqdmvawOHCJYg0lXExJGAfHw2tPz&_nc_ohc=ZB5QWg4zQkAQ7kNvwGU9E--&_nc_oc=AdlpRQEtOuqwMegnf1pBedPmcwWLWnn_WK6fhRum8uOnSnLSruj7kaR39GkB2vPeDt9V3759EkHgnrlZkYsJfQnQ&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=txc7OexEwKaJY1oftfIKpA&oh=00_AfU1p6bUhlIHTjcmaIEPsj-cNlcQVD2c4Xh5cI6-dickjg&oe=689F4C19",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/528156199_1050868513696730_3047921215917632468_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHsYulFUi9NwN8CDAee7TIwXXcB0nDPU4ZddwHScM9Tho3RPfeN71W11qVhQRsClJa5bgUDUCvvu3eGTYIkvA_1&_nc_ohc=E3-tzhiJlUQQ7kNvwF7M4-o&_nc_oc=AdlceQjdJ3u7_-h8x2ZYBlDfzKU3BuJ2BlB2hK0BvIfZifwY2i4iHRq1m3hjx2J5M8rNLESGU--49TjF18vHwMHB&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=JjkUcyaccnD3PJxMjqsjtw&oh=00_AfVG5d0SmWT_AQZeG4CxmpeaUmc49ojBFgh_Z3UFsMTWKQ&oe=689F18C9",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/525895261_1048101647306750_109339981983812911_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFqA7PFnEoKHPvpyMNiLjI_f_QGbknfIiF_9AZuSd8iIUr9cJObcUk9mZIvvkoPjVC_9RxVvSzTDXlZAJrGphqV&_nc_ohc=bbCPaP9fTtUQ7kNvwHOaNZT&_nc_oc=AdnQRKy6EpGYrQr08_uOUVneow3nUjRg03xOTqkXeR2E5OQOZlG7FkYcALlYhpcL1qZeJBtFYUGavYWouEKwbubK&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=JjkUcyaccnD3PJxMjqsjtw&oh=00_AfUJN-cBaXrHaNtRrQEYRp1HjU6v7G5UYJEW-yE6FIxn2A&oe=689F4408",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/524324131_1041196037997311_1711188453955684843_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeH3xuO12eJabxaogrL9kUtkkY3umkXtHgeRje6aRe0eB-QN__BhZ6fCRE65jsvYymeto239GlslOkg3rPxlQjoR&_nc_ohc=YfQVhSvS654Q7kNvwHi_Jst&_nc_oc=AdmJyjsmYVrpyMWnDVR6GOzxa460nMwgJEqHiFHGjGYijxo9P9XS4kLi14khQUrSqMhEq7F-H5TbIX2QGtRRb9l3&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=2tbVcFAQNC-vkm-x5PEhWQ&oh=00_AfXzEX2VhuQ6jWJoYSgkJOv4wzomL1AdXdGz2FtHGJAkLg&oe=689F3402",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/518386115_1036986108418304_3972173169826566497_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGNpITfipXROmqBk8xSTQlwR2cCeNOYo99HZwJ405ij30At5u6gNe8U9p07rz8vgYFazmgjlq9Kasmw_dC9IhRg&_nc_ohc=l2ODTgq1wLwQ7kNvwGb4tF-&_nc_oc=AdkA33hGV4mNSVqKcKiuEtU5QiRyAY7fVW2VH2mZksqKavf201yxR4J0TFLnhZ7QXhzwnaKrO7gIXiMFbg0ZaSES&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=gwo_kvzQvH9IgnYfNOyCkQ&oh=00_AfUCnXqCiTijzeGH8avKVc6xecmRS5vaQrNoTIcvVlvx5A&oe=689F4CA1",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/515092265_1026772976106284_3928161314415542236_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFGSHUALk_WpSpFYw4LUEdHuRTyjkKwGlK5FPKOQrAaUsBoadHIEXDHBBq8jk4tN3LGHvtSldh1QALKpNiWDXpc&_nc_ohc=-aF1nzVo6RgQ7kNvwFyToyw&_nc_oc=Adnkd9WT259HrnN6l-dGoktiHTnlEbv6Lixsj0q0vyNTLE7jvh7hHKsBUQtMfOXpxliD_7DjdTtwbt_0fr0fxNNp&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=0tjcyliIunHwfxpAzuPbLg&oh=00_AfWnXxlWpoPgqlE3fPyZ3rpikXRma2hHsRrUFF6E1HlvTQ&oe=689F299B"
+    ],
+    "facebook": "https://www.facebook.com/HotelchannelBTAD"
+  },
+  {
+    "ID": 6,
+    "department": "คอมพิวเตอร์ธุรกิจ",
+    "image": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/520557786_1180803160756493_8188876262863112369_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHDCXWWc7A_MdUIJtIchX0quQkpeZjrd_C5CSl5mOt38MLnyFcn7Nj_VUe-T2X_UP0ami_-HK2Q7j2jJHDfuHFm&_nc_ohc=VwWavKaY5coQ7kNvwED9Dci&_nc_oc=AdncIZC2f6EVUReSadgT7ElkX4iHR-xO-_AVhScyOtUyxN79LoizbCx-ZmRYj-dfgz2Z2OTh39niBk98oLjSY9dB&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=xTUL3tQTGJuYA6kCOkJBvA&oh=00_AfVnTqdEnwLBTKQehfISyIoqUcn4yLRpPpnO9wFc3aBULg&oe=68980584",
+    "description": "ศึกษาเกี่ยวกับการนำเทคโนโลยีสารสนเทศมาประยุกต์ใช้ในการบริหารจัดการธุรกิจ เพื่อเพิ่มประสิทธิภาพและความสามารถในการแข่งขัน",
+    "career_paths": [
+      "เจ้าหน้าที่วิเคราะห์ระบบ",
+      "ผู้ดูแลระบบสารสนเทศ",
+      "นักพัฒนาซอฟต์แวร์ธุรกิจ",
+      "ที่ปรึกษาด้านไอทีธุรกิจ",
+      "ผู้จัดการโครงการไอที"
+    ],
+    "WhatYouWillLearn": [
+      "การวิเคราะห์และออกแบบระบบสารสนเทศ",
+      "การจัดการฐานข้อมูล",
+      "โปรแกรมมิ่งพื้นฐานและการพัฒนาแอปพลิเคชัน",
+      "การบริหารโครงการไอที",
+      "การประยุกต์ใช้เทคโนโลยีสารสนเทศในธุรกิจ"
+    ],
+    "TrendsAndDeands": [
+      "ธุรกิจต้องการผู้เชี่ยวชาญไอทีเพื่อสนับสนุนระบบและการบริหาร",
+      "ความต้องการสูงในด้านวิเคราะห์ข้อมูลและความปลอดภัยไซเบอร์",
+      "โอกาสการทำงานในหลากหลายอุตสาหกรรมทั้งภาครัฐและเอกชน"
+    ],
+    "skills": [
+      "การวิเคราะห์และแก้ไขปัญหาระบบ",
+      "ทักษะโปรแกรมมิ่ง",
+      "ความรู้ด้านฐานข้อมูล",
+      "การบริหารจัดการโครงการ",
+      "การสื่อสารและทำงานเป็นทีม"
+    ],
+    "image_department": [
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/526861441_1327066856094800_2185023414648851945_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEWoBUAa32F35ImDUGXkzTsRt6z6S70gGhG3rPpLvSAaAfdCgNJ4p0MwTTcXnMNPf0tkagA6TlSrW9w3qM50jEQ&_nc_ohc=x6myiLnn6-sQ7kNvwFrVgKX&_nc_oc=AdnnqXGLqOMlJfYRtOekPqlyjcCnt_XwH4YTxG42GdJT7_G8pqUPQo14ixgyDo9BJO3SD_hSTVj9MgDanKaQXsFz&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=ECcycAU3hL9XWRq-mZaPiw&oh=00_AfWeOX6dmxJQDBFeUWkgfODdKjlaPckZbU5txV_eBVU3eg&oe=689F5237",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/511026510_1293805609420925_9039447710852028854_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGaXZBa6zUi1t45XITxz8WM9smT2Rg5bWj2yZPZGDltaCkGZTjhnVLvXV7cMjO2LyEBCbc7wG6Dq2WyzKi2mVrj&_nc_ohc=d2LEJBB5DX0Q7kNvwGpITkk&_nc_oc=Adn-cw6RsY4yt7EOtXYpXyBKqS-ZJyM0QR_z-hKg0GEXSUYnjLpyk_ZeHO4ejkgnHG0g7ly0BtgGwYhcoqZo5D5M&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=DFKZR2a4It-3rQjyR_18MQ&oh=00_AfUSvlSFvkHkg6zKKzgPSZuTHAYfox2XiVWl2tynGO2I1w&oe=689F54B0",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/509217291_1291322586335894_7897933393865086250_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFldrU8jLPVMFC1EjY6tbGW3Sr8zjNRRODdKvzOM1FE4KmVMjaRaqFgHkIQUZx7rGVyXy1yOgFlWQ8VGw2fIJjK&_nc_ohc=JfEbmWVfx8kQ7kNvwETYBSs&_nc_oc=AdntsDZK-IVfUGt33QDAah-pfMGDdI0dUbugYAKNjg8aGnoLVFfn7WqceWJRe5lWeXKpPShVAk1WWWzcN7h3Zc_U&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=1Pw_ZZwV0NMuEDpw5Qljag&oh=00_AfXb9qx9cfWbQy9KieKOVrWY2UDG_UioghB6rGbic4is8g&oe=689F31A4",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/507344132_1284890956979057_2374930969781067792_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFBHeD61mZqbAJJo32-4N8GxtGqvgw_0rTG0aq-DD_StCxhsVz_8MDfORwBM00t8rvFAdI663aegLs7K2tZU3a5&_nc_ohc=ps7pLLm7O4MQ7kNvwFxgFcl&_nc_oc=Adm-x4MRs69p-mlHnIBazxI6qAbDPvD_oCG2ZShMm2mW-8rtt6OF0UEVkQefXwXid_GZRQdr3bj7yru1rwlwMkMp&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=KIy-GL902y6MJFJNp2O4ug&oh=00_AfVvziTTLZ3POhMkEs6RaNmBEbr3CAhih0O8SCA5K1xYhg&oe=689F5061",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/505977988_1282750740526412_1012919537418704150_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGhjYMYfpnPCaiTAlIJZ98lyT4JdqmTZyXJPgl2qZNnJZyM0cgo-Vj5lIODfJ78Q8Xk5nnkptjHpwrmHU6hDlWk&_nc_ohc=epJziTpvg_kQ7kNvwEwd_ad&_nc_oc=Adn7ZHnA4dpkJNqgx9GgZ2svNZ2O8TNOMKegemj9A8kPSHOlGtRg0rgB-IYJPyeZPT9SZziKrEovURK7eG9YYDiu&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=mDGC3HhKioFpucDN7IGsAA&oh=00_AfXXAx5uOxJZEQiYaA_WjQoTLYV7_RfWjGSilDbEMM8tsQ&oe=689F4857",
+      "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/504482737_1278570320944454_7121971060504877962_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeF5GOuifKb0tr7TVAwx7QiY4mUBLOGv0xniZQEs4a_TGRKkQ2KeX7qqia2vduJWlRa2iuoKnjRGYgj_86uUY7sl&_nc_ohc=jNWEgrgMwqQQ7kNvwFgTMpC&_nc_oc=AdnsoPiLoUVgIoviFa46Vm1NOYVY-hu9LuZA2VW5BVy2b6wqfmHplJW2CpVouHpT4jBJurhpqhUui9tbaQ1CoHdH&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=JEosolgMAGRpW1FZ_rp_5g&oh=00_AfUO9f597MP-BgPuyJjB4FlQu-o04DyEk-ld07AbIKfSQQ&oe=689F580F"
+    ],
+    "facebook": "https://www.facebook.com/computerbtad"
+  }
+]
