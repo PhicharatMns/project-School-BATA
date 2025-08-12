@@ -12,10 +12,10 @@ export default function Navbar() {
       <div className="text-white hidden md:block">
         <div className="flex justify-between">
           <div className="w-full sm:w-1/5 text-right font-black text-lg">
-            <Link to={'/'}>School BTAD</Link>
+            <Link to={"/"}>School BTAD</Link>
           </div>
           <div className="w-full sm:w-3/5 flex justify-center gap-5">
-            <a href="/about">เกี่ยวกับเรา</a>
+            <Link to={"/about"}>เกี่ยวกับเรา</Link>
             <a href="/activities">ภาพรวมกิจกรรม</a>
             <a href="/courses">หลักสูตร</a>
             <a href="/academic">งานวิชาการ</a>

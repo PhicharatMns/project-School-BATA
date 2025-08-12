@@ -85,7 +85,7 @@ export default function Pageเเยกสาขา() {
         <p className="text-xl text-sky-500 font-bold py-3 text-center">
           รูปภาพเเนะนําสาขา
         </p>
-        <div className="grid lg:grid-cols-3 grid-cols-2  gap-3 lg:w-300 mx-auto">
+        <div className="grid lg:grid-cols-3 grid-cols-2  gap-3 lg:w-250 md:w-280 mx-auto">
           {departments?.image_department?.map((event, index) => {
             return (
               <div className="mx-auto" key={index}>
