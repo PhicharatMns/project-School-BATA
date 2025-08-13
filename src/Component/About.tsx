@@ -90,7 +90,7 @@ export default function About() {
             <p className="text-sky-500 text-lg font-black">เหตุการณ์สำคัญ</p>
             <p>{data.map((event,index)=>{
                 return (
-                    <p className="text-sm border-b my-1  ">{event.text}</p>
+                    <p key={index} className="text-sm border-b my-1  ">{event.text}</p>
                 )
             })}</p>
           </div>
